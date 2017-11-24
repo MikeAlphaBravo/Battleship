@@ -1,6 +1,6 @@
-# _{Application Name}_
+# _Battleship_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _A digital interpritation of the classic boardgame Battleship, July, 27 2017_
 
 #### By _**Michael Brooks, Faunie Szeloczei, Nathan Mayer, Karla Buckner**_
 
