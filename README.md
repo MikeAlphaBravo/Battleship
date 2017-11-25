@@ -7,6 +7,7 @@
 ## Description
 
 _This is an online version of the classic Battleship game.  It is a 2 player dependent game.  Two can battle it out guessing via a coordinate system and seeing results of hit or miss on the grid. Once one player has sunk all of their opponent's ships the game is won!_
+
 ## Specifications
 
 | Rank | Behavior                                   | Input      | Output                   |
@@ -33,6 +34,22 @@ _This is an online version of the classic Battleship game.  It is a 2 player dep
 
 * _Open in browser with link below_
 * _https://nmdevelops.github.io/battleship/_
+
+## User experience screenshots:
+
+![alt text](/img/header.png)
+
+![alt text](/img/setup.png)
+
+![alt text](/img/select.png)
+
+![alt text](/img/miss.png)
+
+![alt text](/img/hit.png)
+
+![alt text](/img/hitsunk.png)
+
+![alt text](/img/win.png)
 
 ## Known Bugs
 
