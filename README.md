@@ -33,7 +33,7 @@ _This is an online version of the classic Battleship game.  It is a 2 player dep
 ## Setup/Installation Requirements
 
 * _Open in browser with link below_
-* _https://nmdevelops.github.io/battleship/_
+* _https://mikealphabravo.github.io/Battleship/_
 
 ## User experience screenshots:
 
