@@ -1,5 +1,7 @@
 # _Battleship_
 
+![alt text](/img/header.png)
+
 #### _A digital interpritation of the classic boardgame Battleship, July, 27 2017_
 
 #### By _**Michael Brooks, Faunie Szeloczei, Nathan Mayer, Karla Buckner**_
@@ -36,8 +38,6 @@ _This is an online version of the classic Battleship game.  It is a 2 player dep
 * _https://mikealphabravo.github.io/Battleship/_
 
 ## User experience screenshots:
-
-![alt text](/img/header.png)
 
 ![alt text](/img/setup.png)
 
